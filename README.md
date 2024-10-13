@@ -1,10 +1,13 @@
 ⚡️ Energy Consumption Efficiency Analysis ⚡️
 This project compares the energy efficiency of homes when they are Occupied 🏡 vs Unoccupied 🏚️ using A/B testing with an independent t-test to see if there's a significant difference in energy consumption between the two.
 
-![image](https://github.com/user-attachments/assets/c2930bfb-f57c-4ad7-a5e7-7ed59f1818ac)
+![image](https://github.com/user-attachments/assets/4087b248-304f-4d0e-9732-260e30572213)
+
 
 📋 Project Overview
 This project performs an analysis on energy consumption data to determine whether homes are more energy-efficient when occupied or unoccupied. By using statistical methods like t-tests, we compare the two scenarios and provide visualizations to showcase the differences.
+
+![image](https://github.com/user-attachments/assets/83328de1-5a96-4231-a9c4-9bc6dfc60376)
 
 ✨ Features:
 Data Preprocessing: Filter the dataset into occupied and unoccupied homes.
